@@ -1,0 +1,17 @@
+==== PASSWORD MANAGER ====
+1. Generate Password
+2. Check Password Strength
+3. Exit
+Enter your choice: 1
+Enter password length: 12
+Include uppercase? (y/n): y
+Include lowercase? (y/n): y
+Include digits? (y/n): y
+Include symbols? (y/n): y
+
+🔑 Generated Password: Ab1@cD9$eF2!
+
+
+Enter your choice: 2
+Enter password to check: Ab1@cD9$eF2!
+🔍 Password Strength: ✅ Strong Password

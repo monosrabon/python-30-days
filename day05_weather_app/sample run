@@ -1,0 +1,16 @@
+=== Weather App ===
+
+Enter city name (or type 'exit' to quit): Dhaka
+🌍 City: Dhaka
+🌡️ Temperature: 30°C
+💧 Humidity: 70%
+☁️ Condition: Clear sky
+
+Enter city name (or type 'exit' to quit): London
+🌍 City: London
+🌡️ Temperature: 15°C
+💧 Humidity: 60%
+☁️ Condition: Light rain
+
+Enter city name (or type 'exit' to quit): exit
+👋 Thanks for using Weather App. Goodbye!

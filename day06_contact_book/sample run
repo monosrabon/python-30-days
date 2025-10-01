@@ -1,0 +1,111 @@
+==== CONTACT BOOK ====
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+
+Enter your choice: 1
+Enter Name: Sheikh
+Enter Phone: 01988910364
+Enter Email: skzadid45@gmail.com
+Enter Address: Paradise Para,Tangail
+
+✅ Contact 'Sheikh' added successfully!
+
+==== CONTACT BOOK ====
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+
+Enter your choice: 2
+
+📒 All Contacts:
+
+Name: mono
+  Phone: 01776303050
+  Email: misrabon55@gmail.com
+  Address: 43/2 Block-A,Akur Takur Para
+
+Name: Sheikh
+  Phone: 01988910364
+  Email: skzadid45@gmail.com
+  Address: Paradise Para,Tangail
+
+==== CONTACT BOOK ====
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+
+Enter your choice: 2
+
+📒 All Contacts:
+
+Name: mono
+  Phone: 01776303050
+  Email: misrabon55@gmail.com
+  Address: 43/2 Block-A,Akur Takur Para
+
+Name: Sheikh
+  Phone: 01988910364
+  Email: skzadid45@gmail.com
+  Address: Paradise Para,Tangail
+
+==== CONTACT BOOK ====
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+
+Enter your choice: 3
+Enter Name to Search: sheikh 
+
+❌ Contact not found.
+
+==== CONTACT BOOK ====
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+
+Enter your choice: Sheikh
+
+⚠️ Invalid choice. Please try again.
+
+==== CONTACT BOOK ====
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+
+Enter your choice: 3
+Enter Name to Search: Sheikh
+
+🔍 Found Contact: Sheikh
+  Phone: 01988910364
+  Email: skzadid45@gmail.com
+  Address: Paradise Para,Tangail
+==== CONTACT BOOK ====
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+
+Enter your choice: 6
+
+💾 Contacts saved. Exiting program. Goodbye!

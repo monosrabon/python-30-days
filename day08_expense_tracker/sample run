@@ -1,0 +1,21 @@
+=== Expense Tracker ===
+1. Add Expense
+2. View All Expenses
+3. Show Summary
+4. Exit
+Choose an option: 1
+Enter amount: 250
+Enter category (Food, Travel, Shopping, etc.): Food
+Enter note: Dinner with friends
+✅ Expense added successfully!
+
+=== Expense Tracker ===
+1. Add Expense
+2. View All Expenses
+3. Show Summary
+4. Exit
+Choose an option: 3
+
+💰 Total Expenses: $250
+📊 Expenses by Category:
+  Food: $250

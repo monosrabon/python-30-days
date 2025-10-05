@@ -1,0 +1,30 @@
+==== Flashcard Quiz App ====
+1. Add a flashcard
+2. Start quiz
+3. Exit
+Enter your choice: 2
+
+🎴 Starting Quiz 🎴
+
+Q1: What is the capital of France?
+Your answer: Paris
+✅ Correct!
+
+Q2: What year did World War II end?
+Your answer: 1944
+❌ Wrong! Correct Answer: 1945
+
+Q3: Which data type is immutable in Python?
+Your answer: tuple
+✅ Correct!
+
+Q4: Who painted the Mona Lisa?
+Your answer: Leonardo da Vinci
+✅ Correct!
+
+Q5: What does CPU stand for?
+Your answer: Central Processing Unit
+✅ Correct!
+
+Quiz Completed! 🎉 Your Score: 4/5
+👍 Good job! Keep practicing.

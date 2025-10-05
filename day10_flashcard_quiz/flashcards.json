@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris"
+    },
+    {
+        "question": "What is 5 + 7?",
+        "answer": "12"
+    },
+    {
+        "question": "Who developed Python?",
+        "answer": "Guido van Rossum"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What year did World War II end?",
+        "answer": "1945"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O"
+    },
+    {
+        "question": "Which language is used for web styling?",
+        "answer": "CSS"
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "answer": "HyperText Transfer Protocol"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "answer": "2"
+    },
+    {
+        "question": "Which data type is immutable in Python?",
+        "answer": "Tuple"
+    },
+    {
+        "question": "What is the speed of light in vacuum (approx km/s)?",
+        "answer": "300000"
+    },
+    {
+        "question": "Which continent is the Sahara Desert located in?",
+        "answer": "Africa"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What does CPU stand for?",
+        "answer": "Central Processing Unit"
+    }
+]

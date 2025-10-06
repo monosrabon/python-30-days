@@ -1,0 +1,33 @@
+==== Hangman Game ====
+1. Play Hangman
+2. Exit
+Enter your choice: 1
+
+🎮 Welcome to Hangman!
+
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+
+_ _ _ _ _ _
+
+Guess a letter (or type 'hint' for a hint): hint
+💡 Hint: A popular programming language.
+
+Guess a letter (or type 'hint' for a hint): p
+✅ Correct!
+
+p _ _ _ _ _
+
+Guess a letter (or type 'hint' for a hint): y
+✅ Correct!
+
+p y _ _ _ _
+
+... (game continues)
+
+🏆 Congratulations! You guessed the word!

@@ -1,0 +1,16 @@
+🍅 Welcome to the Pomodoro Focus Timer (Minimal Pro Edition)!
+Work smarter, not harder 😎
+
+Controls: [p] Pause | [r] Resume | [q] Quit
+
+Enter work session duration (minutes): 30
+Enter break duration (minutes): 2
+Enter total Pomodoro work sessions: 5
+
+🍅 Pomodoro 1/5
+
+🔔 Work Session started! (30 minutes)
+⏳ Time left: 29:56
+⏸️  Timer paused. Press 'r' to resume.
+
+🛑 Timer stopped early by user.
